@@ -7,7 +7,7 @@
 ---
 
 ## 📘 Course Overview  
-This repository contains all **homework assignments** and supplementary resources for the **Machine Learning** course offered in **Fall 1403 (2024)** at **K. N. Toosi University of Technology**. The course covers the mathematical foundations, core algorithms, and deep learning techniques essential to the field of machine learning, with practical implementations using Python and PyTorch.
+This repository contains all **homework assignments** and supplementary resources for the **Machine Learning** course offered in **Fall 1403 (2024)** at **K. N. Toosi University of Technology**. The course covers the mathematical foundations, core algorithms, and deep learning techniques essential to the field of machine learning, with practical implementations using Python and PyTorch. 
 
 ---
 
@@ -67,6 +67,6 @@ All assignments must be completed individually unless otherwise stated. Discussi
 ---
 
 ## 🔖 Citation  
-If this course material is helpful in your research or academic work, please cite as:  
+If this course material is helpful in your research or academic work (some content is in Persian), please cite as:  
 ```scss
 Machine Learning, Dr. Babak Naser Sharif, K. N. Toosi University of Technology, Fall 1403 (2024).
